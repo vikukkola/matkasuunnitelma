@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="39.592" lon="19.9182">
+    <name>Vlacherna Monastery</name>
+    <cmt>Ilmainen pieni luostari sillan päässä – upea valokuvauspaikka. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.5915" lon="19.9197">
+    <name>Pontikonisi</name>
+    <cmt>Pieni saari – pääsymaksu noin 3€, veneretki sisältyy. (3 €)</cmt>
+  </wpt>
+  <wpt lat="39.6212" lon="19.9247">
+    <name>Old Fortress</name>
+    <cmt>Historiallinen linnoitus – aikuiset noin 6€, opiskelijat alennuksella. (6 €)</cmt>
+  </wpt>
+  <wpt lat="39.624" lon="19.9206">
+    <name>New Fortress</name>
+    <cmt>Ilmainen ulkoalue – upea näköala vanhaankaupunkiin. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.6216" lon="19.9212">
+    <name>Liston</name>
+    <cmt>Ilmainen – kuuluisa kävelykatu ja kahvilat. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.5624" lon="19.9061">
+    <name>Achilleion</name>
+    <cmt>Keisarinna Sissin palatsi – sisäänpääsy noin 10€. (10 €)</cmt>
+  </wpt>
+  <wpt lat="39.5455" lon="19.8942">
+    <name>Benitses Beach</name>
+    <cmt>Ilmainen ranta – rauhallinen uimapaikka. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.6293" lon="19.8796">
+    <name>Kapodistrias Museum</name>
+    <cmt>Pääsymaksu noin 5€ – historiallinen museo puutarhassa. (5 €)</cmt>
+  </wpt>
+  <wpt lat="39.6056" lon="19.919">
+    <name>Mon Repos</name>
+    <cmt>Vanha huvila ja museo – n. 4€ sisäänpääsy. (4 €)</cmt>
+  </wpt>
+  <wpt lat="39.6105" lon="19.9222">
+    <name>Garitsa Bay</name>
+    <cmt>Ilmainen rantakävely – hyvä iltakohde. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.6726" lon="19.7058">
+    <name>Paleokastritsa</name>
+    <cmt>Luostari ilmainen, akvaario 5€, veneretket lisähintaan. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.68" lon="19.703">
+    <name>La Grotta</name>
+    <cmt>Ilmainen pääsy, mutta juomat maksullisia. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.7489" lon="19.869">
+    <name>Pantokrator</name>
+    <cmt>Korkein kohta – ilmainen, autolla ylös. (0 €)</cmt>
+  </wpt>
+  <wpt lat="39.7533" lon="19.8753">
+    <name>Old Perithia</name>
+    <cmt>Hylätty kylä – ilmainen tutkia, ravintoloita alueella. (0 €)</cmt>
+  </wpt>
+</gpx>

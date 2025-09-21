@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="39.592" lon="19.9182">
+    <name>Vlacherna Monastery</name>
+  </wpt>
+  <wpt lat="39.5915" lon="19.9197">
+    <name>Pontikonisi</name>
+  </wpt>
+  <wpt lat="39.6212" lon="19.9247">
+    <name>Old Fortress</name>
+  </wpt>
+  <wpt lat="39.624" lon="19.9206">
+    <name>New Fortress</name>
+  </wpt>
+  <wpt lat="39.6216" lon="19.9212">
+    <name>Liston</name>
+  </wpt>
+  <wpt lat="39.5624" lon="19.9061">
+    <name>Achilleion</name>
+  </wpt>
+  <wpt lat="39.5455" lon="19.8942">
+    <name>Benitses Beach</name>
+  </wpt>
+  <wpt lat="39.6293" lon="19.8796">
+    <name>Kapodistrias Museum</name>
+  </wpt>
+  <wpt lat="39.6056" lon="19.919">
+    <name>Mon Repos</name>
+  </wpt>
+  <wpt lat="39.6105" lon="19.9222">
+    <name>Garitsa Bay</name>
+  </wpt>
+  <wpt lat="39.6726" lon="19.7058">
+    <name>Paleokastritsa</name>
+  </wpt>
+  <wpt lat="39.68" lon="19.703">
+    <name>La Grotta</name>
+  </wpt>
+  <wpt lat="39.7489" lon="19.869">
+    <name>Pantokrator</name>
+  </wpt>
+  <wpt lat="39.7533" lon="19.8753">
+    <name>Old Perithia</name>
+  </wpt>
+</gpx>

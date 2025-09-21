@@ -1,0 +1,11 @@
+Päiväkohtaisen matkasuunnitelman aikatauluineen
+
+Nähtävyydet hintoineen ja kuvauksineen
+
+Linkit Google Maps -sijainteihin nähtävyyksissä PDF:ssä
+
+Vaihtoehtoiset kohteet / varapäivät jokaiselle päivälle
+
+PDF-tiedoston generoinnin
+
+KML- ja GPX-tiedostojen luonti (karttanavigointiin)
